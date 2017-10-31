@@ -1,0 +1,10 @@
+{
+  "enabledSearch": "danish",
+  "searchConfig": {
+        "komkode": ["540"]
+  },
+  "schemata": {
+        "soenderborg_540"
+  }
+  "brandName": "Sønderborg Kommune"
+}
