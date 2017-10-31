@@ -3,8 +3,8 @@
   "searchConfig": {
         "komkode": ["540"]
   },
-  "schemata": {
+  "schemata": [
         "soenderborg_540"
-  },
+  ],
   "brandName": "Sønderborg Kommune"
 }
