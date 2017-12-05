@@ -1,0 +1,10 @@
+{
+  "enabledSearch": "danish",
+  "searchConfig": {
+        "komkode": ["461"]
+  },
+  "schemata": [
+        "odense_461"
+  ],
+  "brandName": "Odense Kommune"
+}
