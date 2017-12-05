@@ -1,12 +1,12 @@
 {
   "enabledSearch": "google",
-  
-  "searchConfig": {
-        "komkode": ["461"]
-  },
 
   "schemata": [
         "dk"
   ],
-  "brandName": "Geokon"
+  "brandName": "Geokon",
+  
+  "baseLayers": [
+        {"id": "osm", "name": "OSM"}
+  ]
 }
