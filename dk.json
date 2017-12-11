@@ -13,6 +13,8 @@
   
   "brandName": "Geokon",
   
+  "aboutBox": "<div id='ge-licenses'></div>",
+  
   "baseLayers": [
         {"id": "osm", "name": "OSM"}
   ]
