@@ -11,5 +11,7 @@
   "searchConfig": {
         "komkode": ["540"]
   },
-  "brandName": "Sønderborg Kommune"
+  "brandName": "Sønderborg Kommune",
+  
+  "aboutBox": "<div id='ge-licenses'></div>",
 }
