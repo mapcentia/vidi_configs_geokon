@@ -12,6 +12,9 @@
         "komkode": ["540"]
   },
   "brandName": "Sønderborg Kommune",
+  "enabledExtensions": [
+    "conflictSearch"
+  ],
   
   "aboutBox": "<div id='ge-licenses'></div>"
 }
